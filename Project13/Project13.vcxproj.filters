@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="operator_overloading++.cpp">
+    <ClCompile Include="operator_overloading_array_indexing.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
